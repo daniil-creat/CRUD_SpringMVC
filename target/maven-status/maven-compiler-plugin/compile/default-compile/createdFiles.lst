@@ -1,0 +1,7 @@
+com\users\user\User.class
+com\users\user\UserController.class
+com\users\user\service\UserService.class
+com\users\user\repository\UserRepository.class
+com\users\config\WebMvcConfig.class
+com\users\config\WebAppInitializer.class
+com\users\config\JpaConfig.class
